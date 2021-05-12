@@ -1,4 +1,5 @@
 import java.io.File;
+import java.io.FileWriter;
 import java.util.Scanner;
 
 public class Knapsack{
@@ -16,7 +17,7 @@ public class Knapsack{
 
     public static void main(String[] args){
         Scanner sc = null;
-
+        FileWriter out = null;
 
         // argument flags
         int inputPosition = doesItInclude(args, "-i") + 1;
@@ -32,11 +33,23 @@ public class Knapsack{
             File file = new File(args[inputPosition]); 
             sc = new Scanner(file); 
         } catch( Exception e){
-            System.out.println("Error found");
+            System.out.println("Error found reading input file");
         }
 
-        GA_Knapsack geneticKnapsack = new GA_Knapsack(10,1000, 30, sc);
-        
+        try{
+            out = new FileWriter(args[outputPosition]);
 
+        } catch (Exception e){
+            System.out.println("Error found creating Filewriter object");
+        }
+
+        GA_Knapsack geneticKnapsack = new GA_Knapsack(100,1000, 30, sc, out);
+        
+        try{
+            out.close();
+        } catch (Exception e){
+            
+        }
+        
     }
 }

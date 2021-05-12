@@ -1,6 +1,7 @@
 import java.lang.Math;
 import java.util.Scanner;
 import java.util.Vector;
+import java.io.FileWriter;
 
 public class GA_Knapsack {
 
@@ -22,7 +23,7 @@ public class GA_Knapsack {
     int[] largeWeights = new int[20];
     int[] largeValues = new int[20];
     
-    public GA_Knapsack(int max_gen, int pop_size, int knapsack_weight, Scanner dataFile) {
+    public GA_Knapsack(int max_gen, int pop_size, int knapsack_weight, Scanner dataFile, FileWriter output) {
 
         this.currentGen = 0;
         this.maxGen = max_gen;
@@ -33,11 +34,11 @@ public class GA_Knapsack {
         this.readDataFromFile(dataFile);
 
         // generates temp placeholder of populations with 10 chromosomes
-        this.findBestCombinations(10);
+        this.findBestCombinations(10, output);
 
-        this.findBestCombinations(15);
+        this.findBestCombinations(15, output);
 
-        this.findBestCombinations(20);
+        this.findBestCombinations(20, output);
     }
 
     public void readDataFromFile(Scanner dataFile){
@@ -69,6 +70,37 @@ public class GA_Knapsack {
         
     }
 
+    public void findBestCombinations(int length_of_gene, FileWriter outputFile){
+        
+        // generate the initial population
+        this.generateInitialPopulation(length_of_gene);
+        // for each of the population sizes
+        for(int i = 0; i < this.maxGen; i++){
+            // find and cross the best parents for the next generation, 5 placeholder for number of potential parents to return
+            Vector<boolean[]> parentGroup = this.findParentGroup(this.generationPopulation, 5);
+            // cross the best parents
+            this.generateNewGeneration(parentGroup);
+
+            // TODO print the best candidate and info
+            //System.out.println("\nBest candidate found for generation " + i + ":");
+            try{
+                outputFile.write("\nBest candidate found for generation " + i + ":\n");
+            } catch (Exception e){
+
+            }
+            this.findBestCandidate(this.generationPopulation, outputFile);
+        }
+        
+        try{
+            outputFile.write("\nOverall Best solution found for data set with length: " + length_of_gene);
+        } catch(Exception e){
+
+        }
+        //System.out.println("\nOverall Best solution found for data set with length: " + length_of_gene);
+        this.findBestCandidate(this.generationPopulation , outputFile);
+        
+    }
+
     public void findBestCombinations(int length_of_gene){
         
         // generate the initial population
@@ -79,10 +111,14 @@ public class GA_Knapsack {
             Vector<boolean[]> parentGroup = this.findParentGroup(this.generationPopulation, 5);
             // cross the best parents
             this.generateNewGeneration(parentGroup);
-        }
-        // TODO print the best candidate and info
 
-        System.out.println("Best solution found");
+            // TODO print the best candidate and info
+            System.out.println("\nBest candidate found for generation " + i + ":");
+            this.findBestCandidate(this.generationPopulation);
+        }
+        
+
+        System.out.println("\nOverall Best solution found for data set with length: " + length_of_gene);
         this.findBestCandidate(this.generationPopulation);
         
     }
@@ -106,6 +142,34 @@ public class GA_Knapsack {
         System.out.println("Best candidate fitness is : " + this.evaluateCandidateFitness(candidate));
         System.out.println("Best candidate weight is : " + this.evaluateCandidateWeight(candidate));
         
+    }
+
+    private void findBestCandidate(Vector<boolean[]> group, FileWriter output){
+        int bestFitness = 0;
+        boolean[] candidate = null;
+
+        for(int i = 0; i < group.size(); i++){
+            if( this.evaluateCandidateFitness(group.get(i)) > bestFitness){
+                bestFitness = this.evaluateCandidateFitness(group.get(i));
+                candidate = group.get(i);
+            }
+        }
+
+        try{
+            for(int i = 0; i < candidate.length; i++){
+            // System.out.print(candidate[i] + " ");
+                output.write(candidate[i] + " ");
+
+            }
+            //System.out.println("");
+            output.write("\n");
+            //System.out.println("Best candidate fitness is : " + this.evaluateCandidateFitness(candidate));
+            output.write("Best candidate fitness is : " + this.evaluateCandidateFitness(candidate) + "\n");
+            //System.out.println("Best candidate weight is : " + this.evaluateCandidateWeight(candidate));
+            output.write("Best candidate weight is : " + this.evaluateCandidateWeight(candidate) + "\n");
+        } catch (Exception e){
+
+        }
     }
 
     /*
