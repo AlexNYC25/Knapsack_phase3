@@ -1,0 +1,1512 @@
+
+Best candidate found for generation 0:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 1:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 2:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 3:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 4:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 5:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 6:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 7:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 8:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 9:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 10:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 11:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 12:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 13:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 14:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 15:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 16:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 17:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 18:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 19:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 20:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 21:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 22:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 23:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 24:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 25:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 26:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 27:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 28:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 29:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 30:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 31:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 32:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 33:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 34:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 35:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 36:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 37:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 38:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 39:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 40:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 41:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 42:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 43:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 44:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 45:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 46:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 47:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 48:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 49:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 50:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 51:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 52:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 53:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 54:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 55:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 56:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 57:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 58:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 59:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 60:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 61:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 62:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 63:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 64:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 65:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 66:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 67:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 68:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 69:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 70:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 71:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 72:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 73:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 74:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 75:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 76:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 77:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 78:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 79:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 80:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 81:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 82:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 83:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 84:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 85:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 86:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 87:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 88:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 89:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 90:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 91:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 92:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 93:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 94:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 95:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 96:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 97:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 98:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 99:
+true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Overall Best solution found for data set with length: 10true true true true true true true false true true 
+Best candidate fitness is : 52
+Best candidate weight is : 28
+
+Best candidate found for generation 0:
+true true true false true true true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 1:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 2:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 3:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 4:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 5:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 6:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 7:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 8:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 9:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 10:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 11:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 12:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 13:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 14:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 15:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 16:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 17:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 18:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 19:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 20:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 21:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 22:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 23:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 24:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 25:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 26:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 27:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 28:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 29:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 30:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 31:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 32:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 33:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 34:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 35:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 36:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 37:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 38:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 39:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 40:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 41:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 42:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 43:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 44:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 45:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 46:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 47:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 48:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 49:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 50:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 51:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 52:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 53:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 54:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 55:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 56:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 57:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 58:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 59:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 60:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 61:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 62:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 63:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 64:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 65:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 66:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 67:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 68:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 69:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 70:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 71:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 72:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 73:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 74:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 75:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 76:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 77:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 78:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 79:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 80:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 81:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 82:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 83:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 84:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 85:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 86:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 87:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 88:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 89:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 90:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 91:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 92:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 93:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 94:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 95:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 96:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 97:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 98:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 99:
+true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Overall Best solution found for data set with length: 15true true true true false false true false true true true false false false true 
+Best candidate fitness is : 63
+Best candidate weight is : 30
+
+Best candidate found for generation 0:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 1:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 2:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 3:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 4:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 5:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 6:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 7:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 8:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 9:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 10:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 11:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 12:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 13:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 14:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 15:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 16:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 17:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 18:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 19:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 20:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 21:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 22:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 23:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 24:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 25:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 26:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 27:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 28:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 29:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 30:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 31:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 32:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 33:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 34:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 35:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 36:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 37:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 38:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 39:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 40:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 41:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 42:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 43:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 44:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 45:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 46:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 47:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 48:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 49:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 50:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 51:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 52:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 53:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 54:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 55:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 56:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 57:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 58:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 59:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 60:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 61:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 62:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 63:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 64:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 65:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 66:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 67:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 68:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 69:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 70:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 71:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 72:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 73:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 74:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 75:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 76:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 77:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 78:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 79:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 80:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 81:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 82:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 83:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 84:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 85:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 86:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 87:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 88:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 89:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 90:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 91:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 92:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 93:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 94:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 95:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 96:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 97:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 98:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Best candidate found for generation 99:
+true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
+
+Overall Best solution found for data set with length: 20true true false false true false false false true true true false true false true false true true false false 
+Best candidate fitness is : 64
+Best candidate weight is : 29
